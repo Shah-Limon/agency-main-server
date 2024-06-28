@@ -1,0 +1,418 @@
+[
+    {
+        "player_name": "Shakib Al Hasan",
+        "runs": 6321,
+        "wickets": 269,
+        "highest_run": 217,
+        "highest_wickets": 5,
+        "team_name": "Dhaka Dynamites"
+      },
+      {
+        "player_name": "Tamim Iqbal",
+        "runs": 7098,
+        "wickets": 26,
+        "highest_run": 158,
+        "highest_wickets": 3,
+        "team_name": "Chittagong Vikings"
+      },
+      {
+        "player_name": "Tamim Iqbal",
+        "runs": 5800,
+        "wickets": 7,
+        "highest_run": 144,
+        "highest_wickets": 1,
+        "team_name": "Rangpur Riders"
+      },
+      {
+        "player_name": "Mushfiqur Rahim",
+        "runs": 6152,
+        "wickets": 7,
+        "highest_run": 144,
+        "highest_wickets": 1,
+        "team_name": "Rangpur Riders"
+      },
+      {
+        "player_name": "Mustafizur Rahman",
+        "runs": 100,
+        "wickets": 80,
+        "highest_run": 16,
+        "highest_wickets": 5,
+        "team_name": "Comilla Victorians"
+      },
+      {
+        "player_name": "Mustafizur Rahman",
+        "runs": 90,
+        "wickets": 70,
+        "highest_run": 160,
+        "highest_wickets": 5,
+        "team_name": "Comilla Victorians"
+      },
+      {
+        "player_name": "Mustafizur Rahman",
+        "runs": 120,
+        "wickets": 80,
+        "highest_run": 16,
+        "highest_wickets": 5,
+        "team_name": "Comilla Victorians"
+      },
+      {
+        "player_name": "Mehidy Hasan Miraz",
+        "runs": 932,
+        "wickets": 74,
+        "highest_run": 51,
+        "highest_wickets": 4,
+        "team_name": "Sylhet Sixers"
+      },
+      {
+        "player_name": "Shakib Al Hasan",
+        "runs": 2456,
+        "wickets": 0,
+        "highest_run": 126,
+        "highest_wickets": 0,
+        "team_name": "Khulna Tigers"
+      },
+      {
+        "player_name": "Mahmudullah",
+        "runs": 4415,
+        "wickets": 71,
+        "highest_run": 128,
+        "highest_wickets": 3,
+        "team_name": "Dhaka Platoon"
+      },
+      {
+        "player_name": "Soumya Sarkar",
+        "runs": 2611,
+        "wickets": 12,
+        "highest_run": 88,
+        "highest_wickets": 2,
+        "team_name": "Cumilla Warriors"
+      },
+      {
+        "player_name": "Shakib Al Hasan",
+        "runs": 109,
+        "wickets": 37,
+        "highest_run": 33,
+        "highest_wickets": 5,
+        "team_name": "Rajshahi Royals"
+      },
+      {
+        "player_name": "Mohammad Naim",
+        "runs": 550,
+        "wickets": 0,
+        "highest_run": 55,
+        "highest_wickets": 0,
+        "team_name": "Chattogram Challengers"
+      },
+      {
+        "player_name": "Mohammad Naim",
+        "runs": 105,
+        "wickets": 0,
+        "highest_run": 55,
+        "highest_wickets": 0,
+        "team_name": "Chattogram Challengers"
+      },
+      {
+        "player_name": "Mohammad Naim",
+        "runs": 1050,
+        "wickets": 0,
+        "highest_run": 55,
+        "highest_wickets": 0,
+        "team_name": "Chattogram Challengers"
+      },
+      {
+        "player_name": "Najmul Hossain Shanto",
+        "runs": 715,
+        "wickets": 0,
+        "highest_run": 115,
+        "highest_wickets": 0,
+        "team_name": "Barishal Bulls"
+      },
+      {
+        "player_name": "Najmul Hossain Shanto",
+        "runs": 250,
+        "wickets": 0,
+        "highest_run": 115,
+        "highest_wickets": 0,
+        "team_name": "Barishal Bulls"
+      },
+      {
+        "player_name": "Najmul Hossain Shanto",
+        "runs": 860,
+        "wickets": 0,
+        "highest_run": 115,
+        "highest_wickets": 0,
+        "team_name": "Barishal Bulls"
+      },
+      {
+        "player_name": "Najmul Hossain Shanto",
+        "runs": 1050,
+        "wickets": 0,
+        "highest_run": 115,
+        "highest_wickets": 0,
+        "team_name": "Barishal Bulls"
+      },
+      {
+        "player_name": "Rubel Hossain",
+        "runs": 90,
+        "wickets": 124,
+        "highest_run": 34,
+        "highest_wickets": 4,
+        "team_name": "Dhaka Dynamites"
+      },
+      {
+        "player_name": "Rubel Hossain",
+        "runs": 50,
+        "wickets": 124,
+        "highest_run": 34,
+        "highest_wickets": 4,
+        "team_name": "Dhaka Dynamites"
+      },
+      {
+        "player_name": "Rubel Hossain",
+        "runs": 600,
+        "wickets": 124,
+        "highest_run": 34,
+        "highest_wickets": 4,
+        "team_name": "Dhaka Dynamites"
+      },
+      {
+        "player_name": "Rubel Hossain",
+        "runs": 140,
+        "wickets": 124,
+        "highest_run": 34,
+        "highest_wickets": 4,
+        "team_name": "Dhaka Dynamites"
+      },
+      {
+        "player_name": "Nasir Hossain",
+        "runs": 250,
+        "wickets": 45,
+        "highest_run": 120,
+        "highest_wickets": 3,
+        "team_name": "Sylhet Sixers"
+      },
+      {
+        "player_name": "Nasir Hossain",
+        "runs": 120,
+        "wickets": 45,
+        "highest_run": 120,
+        "highest_wickets": 3,
+        "team_name": "Sylhet Sixers"
+      },
+      {
+        "player_name": "Nasir Hossain",
+        "runs": 900,
+        "wickets": 45,
+        "highest_run": 120,
+        "highest_wickets": 3,
+        "team_name": "Sylhet Sixers"
+      },
+      {
+        "player_name": "Nasir Hossain",
+        "runs": 1439,
+        "wickets": 45,
+        "highest_run": 120,
+        "highest_wickets": 3,
+        "team_name": "Sylhet Sixers"
+      },
+      {
+        "player_name": "Arafat Sunny",
+        "runs": 908,
+        "wickets": 63,
+        "highest_run": 21,
+        "highest_wickets": 4,
+        "team_name": "Cumilla Warriors"
+      },
+      {
+        "player_name": "Arafat Sunny",
+        "runs": 80,
+        "wickets": 63,
+        "highest_run": 21,
+        "highest_wickets": 4,
+        "team_name": "Cumilla Warriors"
+      },
+      {
+        "player_name": "Arafat Sunny",
+        "runs": 98,
+        "wickets": 63,
+        "highest_run": 21,
+        "highest_wickets": 4,
+        "team_name": "Cumilla Warriors"
+      },
+      {
+        "player_name": "Imrul Kayes",
+        "runs": 400,
+        "wickets": 0,
+        "highest_run": 144,
+        "highest_wickets": 0,
+        "team_name": "Chittagong Vikings"
+      },
+      {
+        "player_name": "Imrul Kayes",
+        "runs": 900,
+        "wickets": 0,
+        "highest_run": 144,
+        "highest_wickets": 0,
+        "team_name": "Chittagong Vikings"
+      },
+      {
+        "player_name": "Imrul Kayes",
+        "runs": 2000,
+        "wickets": 0,
+        "highest_run": 144,
+        "highest_wickets": 0,
+        "team_name": "Chittagong Vikings"
+      },
+      {
+        "player_name": "Mohammad Mithun",
+        "runs": 1287,
+        "wickets": 0,
+        "highest_run": 62,
+        "highest_wickets": 0,
+        "team_name": "Khulna Tigers"
+      },
+      {
+        "player_name": "Mohammad Mithun",
+        "runs": 52,
+        "wickets": 0,
+        "highest_run": 62,
+        "highest_wickets": 0,
+        "team_name": "Khulna Tigers"
+      },
+      {
+        "player_name": "Mohammad Mithun",
+        "runs": 150,
+        "wickets": 0,
+        "highest_run": 62,
+        "highest_wickets": 0,
+        "team_name": "Khulna Tigers"
+      },
+      {
+        "player_name": "Mohammad Mithun",
+        "runs": 900,
+        "wickets": 0,
+        "highest_run": 62,
+        "highest_wickets": 0,
+        "team_name": "Khulna Tigers"
+      },
+      {
+        "player_name": "Liton Das",
+        "runs": 850,
+        "wickets": 0,
+        "highest_run": 121,
+        "highest_wickets": 0,
+        "team_name": "Rajshahi Royals"
+      },
+      {
+        "player_name": "Liton Das",
+        "runs": 500,
+        "wickets": 0,
+        "highest_run": 121,
+        "highest_wickets": 0,
+        "team_name": "Rajshahi Royals"
+      },
+      {
+        "player_name": "Liton Das",
+        "runs": 6000,
+        "wickets": 0,
+        "highest_run": 121,
+        "highest_wickets": 0,
+        "team_name": "Rajshahi Royals"
+      },
+      {
+        "player_name": "Liton Das",
+        "runs": 2365,
+        "wickets": 0,
+        "highest_run": 121,
+        "highest_wickets": 0,
+        "team_name": "Rajshahi Royals"
+      },
+      {
+        "player_name": "Liton Das",
+        "runs": 2265,
+        "wickets": 0,
+        "highest_run": 121,
+        "highest_wickets": 0,
+        "team_name": "Rajshahi Royals"
+      },
+      {
+        "player_name": "Abu Jayed",
+        "runs": 42,
+        "wickets": 40,
+        "highest_run": 10,
+        "highest_wickets": 5,
+        "team_name": "Barishal Bulls"
+      },
+      {
+        "player_name": "Naim Sheikh",
+        "runs": 264,
+        "wickets": 0,
+        "highest_run": 78,
+        "highest_wickets": 0,
+        "team_name": "Comilla Victorians"
+      },
+      {
+        "player_name": "Abu Hider",
+        "runs": 47,
+        "wickets": 31,
+        "highest_run": 15,
+        "highest_wickets": 4,
+        "team_name": "Sylhet Sixers"
+      },
+      {
+        "player_name": "Mohammad Saifuddin",
+        "runs": 285,
+        "wickets": 38,
+        "highest_run": 33,
+        "highest_wickets": 3,
+        "team_name": "Dhaka Platoon"
+      },
+      {
+        "player_name": "Sabbir Rahman",
+        "runs": 2083,
+        "wickets": 16,
+        "highest_run": 122,
+        "highest_wickets": 1,
+        "team_name": "Cumilla Warriors"
+      },
+      {
+        "player_name": "Mahedi Hasan",
+        "runs": 253,
+        "wickets": 36,
+        "highest_run": 57,
+        "highest_wickets": 3,
+        "team_name": "Chattogram Challengers"
+      },
+      {
+        "player_name": "Shafiul Islam",
+        "runs": 200,
+        "wickets": 94,
+        "highest_run": 39,
+        "highest_wickets": 4,
+        "team_name": "Dhaka Dynamites"
+      },
+      {
+        "player_name": "Shafiul Islam",
+        "runs": 600,
+        "wickets": 94,
+        "highest_run": 39,
+        "highest_wickets": 4,
+        "team_name": "Dhaka Dynamites"
+      },
+      {
+        "player_name": "Shafiul Islam",
+        "runs": 960,
+        "wickets": 94,
+        "highest_run": 39,
+        "highest_wickets": 4,
+        "team_name": "Dhaka Dynamites"
+      },
+      {
+        "player_name": "Rubel Mia",
+        "runs": 218,
+        "wickets": 8,
+        "highest_run": 38,
+        "highest_wickets": 1,
+        "team_name": "Rangpur Riders"
+      }
+]
